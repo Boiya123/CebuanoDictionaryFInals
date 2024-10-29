@@ -1,0 +1,21 @@
+.rounded-box {
+    -fx-background-color: #343A40;  /* Set the background color */
+    -fx-background-radius: 24;      /* Set the radius for rounded corners */
+    -fx-border-radius: 24;
+    -fx-border-width: 2px;          /* Optional: Set border width */
+    -fx-padding: 10;
+                 /* Optional: Add padding inside the box */
+}
+
+.listview-button {
+
+    -fx-text-fill: black;
+}
+
+
+.textfield {
+    -fx-background-color: transparent; /* No background */
+        -fx-border-color: transparent;
+        -fx-text-fill: white;
+
+}

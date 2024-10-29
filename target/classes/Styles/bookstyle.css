@@ -1,0 +1,17 @@
+#bookContainer {
+    -fx-background-color: #f0e68c; /* Light yellow background for the book */
+    -fx-border-color: #8b4513; /* Brown border for the book */
+    -fx-border-width: 2; /* Width of the border */
+    -fx-padding: 10; /* Padding around the container */
+}
+
+.button {
+    -fx-background-color: #add8e6; /* Light blue buttons */
+    -fx-font-size: 14;
+    -fx-padding: 10;
+    -fx-text-fill: #000000; /* Black text */
+}
+
+.button:hover {
+    -fx-background-color: #87ceeb; /* Lighter blue on hover */
+}

@@ -1,0 +1,57 @@
+/* Default button style - make the button invisible except for the text */
+.button {
+    -fx-background-color: transparent; /* No background */
+    -fx-border-color: transparent;     /* No border */
+    -fx-text-fill: white;              /* Default text color */
+}
+
+/* Hover state - only the text color changes */
+.button:hover {
+    -fx-text-fill: #FFD60A;          /* Change text color on hover */
+}
+
+/* Pressed state - only the text color changes */
+.button:pressed {
+    -fx-text-fill: #FFC300;               /* Change text color when pressed */
+}
+
+
+
+
+.bar {
+      -fx-background-color: #0B090A;
+}
+
+
+
+.translatwbutton {
+    -fx-background-color: transparent; /* No background */
+    -fx-border-color: transparent;     /* No border */
+    -fx-text-fill: white;
+    -fx-border-radius: 24;
+     -fx-border-color: white/* Default text color */
+}
+
+/* Hover state - only the text color changes */
+.translatwbutton:hover {
+    -fx-text-fill: #FFD60A;
+    -fx-border-color:  #FFD60A; /* Change text color on hover */
+}
+
+/* Pressed state - only the text color changes */
+.translatwbutton:pressed {
+    -fx-text-fill: #FFC300;               /* Change text color when pressed */
+}
+
+
+
+
+.bar {
+      -fx-background-color: #0B090A;
+}
+
+
+
+
+
+

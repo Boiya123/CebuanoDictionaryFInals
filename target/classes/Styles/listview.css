@@ -1,0 +1,36 @@
+/* Default button style - make the button invisible except for the text */
+.button {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-text-fill: black;
+    -fx-font-size: 19;  // or any desired size
+    -fx-padding: 10; /* Default text color */
+}
+
+/* Hover state - only the text color changes */
+.button:hover {
+    -fx-text-fill: #FFD60A;          /* Change text color on hover */
+}
+
+/* Pressed state - only the text color changes */
+.button:pressed {
+    -fx-text-fill: #FFC300;               /* Change text color when pressed */
+}
+
+.bar {
+      -fx-background-color: #0B090A;
+}
+
+
+.list-view .list-cell {
+    -fx-background-color: #343A40e; /* Background color for list cells */
+    -fx-text-fill: white; /* Text color for the cells */
+}
+
+.list-view .list-cell:selected {
+    -fx-background-color: #2980b9; /* Background color for selected cell */
+    -fx-text-fill: white; /* Text color for selected cell */
+}
+
+
+

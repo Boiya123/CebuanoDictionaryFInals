@@ -1,0 +1,1384 @@
+Tagalog: abakada, alpabeto
+Cebuano: abakadhan
+English: alphabet
+
+Tagalog: abasto
+Cebuano: ekipahe
+English: baggage
+
+Tagalog: abentura
+Cebuano: asanyas, pamagdoy
+English: adventure
+
+Tagalog: absuluto
+Cebuano: mapiguton
+English: absolute
+
+Tagalog: agahan
+Cebuano: pamahaw
+English: breakfast
+
+Tagalog: agamahan
+Cebuano: relihiyon
+English: religion
+
+Tagalog: agresibo
+Cebuano: agresibo
+English: aggressive
+
+Tagalog: agrikultura
+Cebuano: panguma, pangyuta
+English: agriculture
+
+Tagalog: akauntant, akawntant
+Cebuano: mangingihap, tagkwenta
+English: accountant
+
+Tagalog: alambre
+Cebuano: alambre, kawad
+English: wire
+
+Tagalog: alkalde
+Cebuano: alkalde
+English: mayor
+
+Tagalog: almirante
+Cebuano: admirante
+English: admiral
+
+Tagalog: alon, onda
+Cebuano: balod
+English: wave
+
+Tagalog: alwagi, anluagi, anluwagi, karpintero
+Cebuano: panday
+English: carpenter
+
+Tagalog: alyen
+Cebuano: lumalangyaw
+English: alien
+
+Tagalog: ampayer, ampayr
+Cebuano: kuyme, tighukom
+English: umpire
+
+Tagalog: angkanan
+Cebuano: kagikan, kailwatan
+English: descendant
+
+Tagalog: anibersaryo
+Cebuano: anibersaryo, kaadlawan, kasumaran
+English: anniversary
+
+Tagalog: antangan
+Cebuano: dibuho, pagdesinyo
+English: design
+
+Tagalog: apog
+Cebuano: apog
+English: lime
+
+Tagalog: arithmetika
+Cebuano: aritmetika
+English: arithmetic
+
+Tagalog: arkitekto
+Cebuano: arkitekto
+English: architect
+
+Tagalog: armi, army
+Cebuano: kasundalohan
+English: army
+
+Tagalog: aseyte
+Cebuano: asayte
+English: oil
+
+Tagalog: asikaso
+Cebuano: pagpatalinghog
+English: attention
+
+Tagalog: asilo
+Cebuano: asilo
+English: asylum
+
+Tagalog: asukal
+Cebuano: asukal, kamay
+English: sugar
+
+Tagalog: at
+Cebuano: ug
+English: conj. and
+
+Tagalog: ateista, ateo
+Cebuano: ateo
+English: atheist
+
+Tagalog: atorni
+Cebuano: manlalaban
+English: attorney
+
+Tagalog: atraktiba, atraktibo
+Cebuano: madanihon
+English: attractive
+
+Tagalog: Australia
+Cebuano: Australia
+English: Australia
+
+Tagalog: Australian, Australiana
+Cebuano: Australiano
+English: Australian
+
+Tagalog: bakod
+Cebuano: labat
+English: fence
+
+Tagalog: bala
+Cebuano: bala
+English: bullet
+
+Tagalog: balam, kabalaman, pagkabalam
+Cebuano: kalangan
+English: delay
+
+Tagalog: baldosa
+Cebuano: baldosa, tisa
+English: tile
+
+Tagalog: balintang
+Cebuano: tingpamulak
+English: spring
+
+Tagalog: balota
+Cebuano: balota
+English: ballot
+
+Tagalog: bandera
+Cebuano: bandila, bandilang
+English: flag
+
+Tagalog: banganan
+Cebuano: dangilag
+English: kindling
+
+Tagalog: bangungot
+Cebuano: daman
+English: nightmare
+
+Tagalog: banidosa, banidoso
+Cebuano: pakyas
+English: vain
+
+Tagalog: banyo
+Cebuano: kaligoanan
+English: bathroom
+
+Tagalog: barel, barilya
+Cebuano: bariles
+English: barrel
+
+Tagalog: bargen
+Cebuano: baratilyo
+English: bargain
+
+Tagalog: bataan
+Cebuano: binatonan, suluguon
+English: servant
+
+Tagalog: Batikano
+Cebuano: Vaticano
+English: Vatican
+
+Tagalog: bawat
+Cebuano: tagsa
+English: pron. each
+
+Tagalog: behuko, bihuko
+Cebuano: uway
+English: rattan
+
+Tagalog: belo
+Cebuano: belo
+English: veil
+
+Tagalog: benggatibo
+Cebuano: mapanimaslon
+English: revengeful
+
+Tagalog: berbo
+Cebuano: berbo
+English: verb
+
+Tagalog: biblioteka
+Cebuano: basahonan
+English: library
+
+Tagalog: bida
+Cebuano: audana, sugilnon
+English: story
+
+Tagalog: biktorya
+Cebuano: nagdaug
+English: victory
+
+Tagalog: bilyete
+Cebuano: papelita, tiket
+English: ticket
+
+Tagalog: binalalak, martilyo
+Cebuano: martilyo
+English: hammer
+
+Tagalog: bitunes, botones
+Cebuano: ibutones
+English: button
+
+Tagalog: Biyernes
+Cebuano: biyernes, Biyernes
+English: Friday
+
+Tagalog: biyuda
+Cebuano: biyuda
+English: widow
+
+Tagalog: biyudo
+Cebuano: biyudo
+English: widower
+
+Tagalog: blakbord
+Cebuano: pisara
+English: blackboard
+
+Tagalog: blusa
+Cebuano: blusa
+English: blouse
+
+Tagalog: bokabularyo, bukabularyo
+Cebuano: pulonglaan
+English: vocabulary
+
+Tagalog: bombero
+Cebuano: hombero
+English: fireman
+
+Tagalog: boratsero, buratsero
+Cebuano: palainum
+English: drunkard
+
+Tagalog: bote
+Cebuano: botilya
+English: bottle
+
+Tagalog: botika, butika
+Cebuano: botika
+English: drugstore
+
+Tagalog: brigada
+Cebuano: brigada
+English: brigade
+
+Tagalog: brindis, tagay
+Cebuano: ginanggang
+English: toast
+
+Tagalog: buhangin
+Cebuano: balas, bonbon
+English: sand
+
+Tagalog: bukungbukong
+Cebuano: tuhod
+English: ankle
+
+Tagalog: bulbo
+Cebuano: bombilya
+English: bulb
+
+Tagalog: bunlag, ruwina
+Cebuano: kagubaan
+English: ruins
+
+Tagalog: busabos
+Cebuano: ulipon
+English: slave
+
+Tagalog: Cristo, Kristo
+Cebuano: Kristo
+English: Christ
+
+Tagalog: dagsin
+Cebuano: kagrabe
+English: gravity
+
+Tagalog: danyos
+Cebuano: kagusbatan
+English: damage
+
+Tagalog: dayapan
+Cebuano: asyenda
+English: plantation
+
+Tagalog: dekreto
+Cebuano: baod
+English: decree
+
+Tagalog: delegado
+Cebuano: delegado
+English: delegate
+
+Tagalog: delinyante, dibuhante, dilinyante
+Cebuano: magdidibuho
+English: draftsman
+
+Tagalog: demokrasya
+Cebuano: demokrasya
+English: democracy
+
+Tagalog: dependiyente, dependyente
+Cebuano: nagsalig, pinakaon
+English: dependent
+
+Tagalog: depo
+Cebuano: depo
+English: depot
+
+Tagalog: desbentaha, disbentaha
+Cebuano: desbintaha
+English: disadvantage
+
+Tagalog: desesperada, desesperado, disesperada, disesperado
+Cebuano: maputong
+English: desperate
+
+Tagalog: detektib
+Cebuano: detektib, tiktik
+English: detective
+
+Tagalog: dialekto, diyalekto
+Cebuano: pinulongan, sinultihan
+English: dialect
+
+Tagalog: dibino
+Cebuano: balaanon, langitnon
+English: divine
+
+Tagalog: diksiyunaryo, diksyunaryo
+Cebuano: diksiyonaryo, kapulongnan
+English: dictionary
+
+Tagalog: dilema
+Cebuano: kalibog
+English: dilemma
+
+Tagalog: diosa, diyosa
+Cebuano: diyosa
+English: goddess
+
+Tagalog: direktoryo
+Cebuano: direktoryo
+English: directory
+
+Tagalog: dokumento
+Cebuano: dokumento
+English: document
+
+Tagalog: domestik
+Cebuano: maanad, panimalaynon
+English: domestic
+
+Tagalog: duweto
+Cebuano: duweto
+English: duet
+
+Tagalog: ebidente
+Cebuano: lutaw, matinaw
+English: evident
+
+Tagalog: ehemplo
+Cebuano: pananglit
+English: example
+
+Tagalog: eko
+Cebuano: lanog
+English: echo
+
+Tagalog: ekseso
+Cebuano: kapin, sobra
+English: excess
+
+Tagalog: eksklusibo
+Cebuano: kaugalingon
+English: exclusive
+
+Tagalog: elegante
+Cebuano: ambungan
+English: elegant
+
+Tagalog: elementarya
+Cebuano: paninugdan
+English: elementary
+
+Tagalog: emigrante
+Cebuano: lalin
+English: emigrant
+
+Tagalog: emperyo, imperyo
+Cebuano: imperyo
+English: empire
+
+Tagalog: empleo, empleyo
+Cebuano: palamugnan, palangitanan, trabahoan
+English: employment
+
+Tagalog: emporyo
+Cebuano: baligyaan, tindahan
+English: emporium
+
+Tagalog: enigma
+Cebuano: tanghaga
+English: enigma
+
+Tagalog: epron
+Cebuano: tapis
+English: apron
+
+Tagalog: ereser, ereyser
+Cebuano: igpapala
+English: eraser
+
+Tagalog: estrikta, estrikto
+Cebuano: istrikto, mahigpit
+English: strict
+
+Tagalog: gangplank
+Cebuano: andamyo, latayan
+English: gangplank
+
+Tagalog: ganso, gantso
+Cebuano: tag
+English: hook
+
+Tagalog: gaod, panggaod
+Cebuano: bugsay
+English: oar
+
+Tagalog: garden
+Cebuano: halaman, tanaman
+English: garden
+
+Tagalog: gaya
+Cebuano: hinulad
+English: imitation
+
+Tagalog: gayas
+Cebuano: laso, tagkos
+English: lace
+
+Tagalog: gia, giya
+Cebuano: magtutultol
+English: guide
+
+Tagalog: giyograpi
+Cebuano: heograpiya
+English: geography
+
+Tagalog: glu
+Cebuano: kola
+English: glue
+
+Tagalog: gobyerno, gubyerno
+Cebuano: gobiyerno
+English: government
+
+Tagalog: gora
+Cebuano: gora, takop
+English: cap
+
+Tagalog: gradwet
+Cebuano: gradwado, nakatapos
+English: graduate
+
+Tagalog: gramar
+Cebuano: gramatika, pulongiaan
+English: grammar
+
+Tagalog: gulay
+Cebuano: tangkong
+English: vegetable
+
+Tagalog: halga
+Cebuano: kabilihan
+English: value
+
+Tagalog: halungkap
+Cebuano: panagsagul, saksak
+English: mixture
+
+Tagalog: harina
+Cebuano: harina
+English: flour
+
+Tagalog: hatinig
+Cebuano: telepono
+English: telephone
+
+Tagalog: henyo
+Cebuano: henyo
+English: genius
+
+Tagalog: hilot, komadrona, kumadrona
+Cebuano: mananabang
+English: midwife
+
+Tagalog: historya
+Cebuano: kasaysayan
+English: history
+
+Tagalog: hobi
+Cebuano: libangan
+English: hobby
+
+Tagalog: hulwaran
+Cebuano: sukdanan
+English: pattern
+
+Tagalog: Huwebes
+Cebuano: Huwebes, huwebes
+English: Thursday
+
+Tagalog: ibon
+Cebuano: langgam
+English: bird
+
+Tagalog: iksakto
+Cebuano: sibo
+English: exact
+
+Tagalog: ilog
+Cebuano: suba
+English: river
+
+Tagalog: imakulada, inmakulada
+Cebuano: mahinlo
+English: immaculate
+
+Tagalog: inano
+Cebuano: inano
+English: dwarf
+
+Tagalog: inhustisya
+Cebuano: inhustisya, panglupig
+English: injustice
+
+Tagalog: insenso, insiyenso
+Cebuano: insenso, kamanyang
+English: incense
+
+Tagalog: intelihente
+Cebuano: utokan
+English: intelligent
+
+Tagalog: interbal
+Cebuano: interbalo
+English: interval
+
+Tagalog: ispeling
+Cebuano: panlitok, pantitik
+English: spelling
+
+Tagalog: ituktok
+Cebuano: tuktokan
+English: zenith
+
+Tagalog: iwak
+Cebuano: bahi, ighahapak, sarol
+English: wedge
+
+Tagalog: kabisada
+Cebuano: rinda
+English: bridle
+
+Tagalog: kabukiranin
+Cebuano: bukidnon
+English: rural
+
+Tagalog: kadena
+Cebuano: kadena
+English: chain
+
+Tagalog: kagahasaan
+Cebuano: panglugos, panlapas
+English: violence
+
+Tagalog: kagaya
+Cebuano: amgid
+English: similar
+
+Tagalog: kahera, kahero
+Cebuano: kahero
+English: cashier
+
+Tagalog: kalagmitan
+Cebuano: kalagmitan, mahitabo
+English: probability
+
+Tagalog: kalawang
+Cebuano: taay
+English: rust
+
+Tagalog: kaldo
+Cebuano: sabaw
+English: broth
+
+Tagalog: kalihim
+Cebuano: kalihim
+English: secretary
+
+Tagalog: kaliwete
+Cebuano: walhon
+English: left-handed
+
+Tagalog: kalungan, kandungan
+Cebuano: pagtila, sabakan
+English: lap
+
+Tagalog: kamanahan
+Cebuano: kahimtangan
+English: environment
+
+Tagalog: kamisadentro
+Cebuano: kamisa
+English: shirt
+
+Tagalog: kamiseta
+Cebuano: kamisin
+English: undershirt
+
+Tagalog: kamot
+Cebuano: kamuson, kison
+English: scratch
+
+Tagalog: kampanya
+Cebuano: kampanya, singkamut
+English: campaign
+
+Tagalog: kanbas, lona
+Cebuano: luna
+English: canvas
+
+Tagalog: kandidato
+Cebuano: kandidato, piliunon
+English: candidate
+
+Tagalog: kapamuhayan
+Cebuano: kainot
+English: economy
+
+Tagalog: kapilya
+Cebuano: kapilya
+English: chapel
+
+Tagalog: karayom
+Cebuano: dagom
+English: needle
+
+Tagalog: karuwahe
+Cebuano: bayhon, karwahe
+English: carriage
+
+Tagalog: kaskasero
+Cebuano: tigpatulin
+English: speed maniac
+
+Tagalog: katerba
+Cebuano: katilingban
+English: multitude
+
+Tagalog: katre
+Cebuano: higdaanan, katre
+English: bed
+
+Tagalog: kauhawan, pagkauhaw, uhaw
+Cebuano: uhaw
+English: thirst
+
+Tagalog: kemestri
+Cebuano: kemika
+English: chemistry
+
+Tagalog: keso
+Cebuano: keso
+English: cheese
+
+Tagalog: kinalimutan
+Cebuano: hinikalimtan
+English: forgotten
+
+Tagalog: kinina
+Cebuano: kinina
+English: quinine
+
+Tagalog: kitsen
+Cebuano: kusina, luotan
+English: kitchen
+
+Tagalog: klinik
+Cebuano: klinika
+English: clinic
+
+Tagalog: klu
+Cebuano: timailhan
+English: clue
+
+Tagalog: kodak
+Cebuano: kamera, kodak
+English: camera
+
+Tagalog: komander
+Cebuano: komandante
+English: commander
+
+Tagalog: kombenyente
+Cebuano: hamugaway
+English: convenient
+
+Tagalog: komikero
+Cebuano: bokon, komiko
+English: clown
+
+Tagalog: kompleto
+Cebuano: tibuok
+English: complete
+
+Tagalog: komportable
+Cebuano: haruhay
+English: comfortable
+
+Tagalog: konggresista, kongresista
+Cebuano: kongresista
+English: congressman
+
+Tagalog: konggreso, kongreso
+Cebuano: balaoranan
+English: congress
+
+Tagalog: kongkista, konkista
+Cebuano: kadaugan
+English: conquest
+
+Tagalog: konseho
+Cebuano: hunta
+English: council
+
+Tagalog: konsiyerto
+Cebuano: kahusay
+English: concert
+
+Tagalog: konsulta, kunsulta
+Cebuano: pakisayud
+English: consultation
+
+Tagalog: kontraktor, kontratista
+Cebuano: kontratista, tigsabut
+English: contractor
+
+Tagalog: korset
+Cebuano: korpinyo
+English: corset
+
+Tagalog: korte
+Cebuano: proma
+English: shape
+
+Tagalog: kortesia
+Cebuano: katahuran
+English: courtesy
+
+Tagalog: kortina, kurtina
+Cebuano: kortina, tabil
+English: curtain
+
+Tagalog: kosturera, kusturera
+Cebuano: kustorera
+English: seamstress
+
+Tagalog: kota
+Cebuano: kota
+English: quota
+
+Tagalog: kreta, tsok
+Cebuano: tisas
+English: chalk
+
+Tagalog: kultura
+Cebuano: hibangkaagan, kultura
+English: culture
+
+Tagalog: kunat
+Cebuano: hunit
+English: tough
+
+Tagalog: kuntrata
+Cebuano: kontrato
+English: contract
+
+Tagalog: kutis
+Cebuano: pamanit
+English: complexion
+
+Tagalog: kuyad
+Cebuano: kahinay
+English: slowness
+
+Tagalog: labaha, labasa
+Cebuano: labaha, sipol
+English: razor
+
+Tagalog: laguna
+Cebuano: laguna
+English: lagoon
+
+Tagalog: lagwerta
+Cebuano: lagwerta
+English: orchard
+
+Tagalog: lalamunan
+Cebuano: tutonlan, tutunlan
+English: throat
+
+Tagalog: lamesa, mesa
+Cebuano: talad
+English: table
+
+Tagalog: lang
+Cebuano: bugtong
+English: adv. only
+
+Tagalog: lantern
+Cebuano: parol
+English: lantern
+
+Tagalog: laraw
+Cebuano: numero
+English: figure
+
+Tagalog: lehia, lihia
+Cebuano: lihiya
+English: lye
+
+Tagalog: leyenda
+Cebuano: ieyenda
+English: legend
+
+Tagalog: libelo
+Cebuano: libelo
+English: libel
+
+Tagalog: literatura
+Cebuano: katitikan, literatura
+English: literature
+
+Tagalog: luho
+Cebuano: kaluho
+English: luxury
+
+Tagalog: Lunes
+Cebuano: Lunes
+English: Monday
+
+Tagalog: lungos
+Cebuano: lawis
+English: cape
+
+Tagalog: madyik
+Cebuano: salamangka
+English: magic
+
+Tagalog: maepekto
+Cebuano: maayo, masangputon
+English: effective
+
+Tagalog: magician
+Cebuano: salamangkiro
+English: magician
+
+Tagalog: magnet
+Cebuano: batobalani
+English: magnet
+
+Tagalog: mahanag
+Cebuano: maligdong
+English: dignified
+
+Tagalog: makasarili
+Cebuano: hakugon
+English: selfish
+
+Tagalog: maligo
+Cebuano: managsama
+English: uniform
+
+Tagalog: malilom
+Cebuano: landungan, malandong
+English: shady
+
+Tagalog: mambabasa, mangbabasa
+Cebuano: magbabasa
+English: reader
+
+Tagalog: manggagamot
+Cebuano: mananambal
+English: physician
+
+Tagalog: manikyurista
+Cebuano: manikurista
+English: manicurist
+
+Tagalog: manlililok
+Cebuano: magkukulit
+English: sculptor
+
+Tagalog: manlulupig
+Cebuano: magbubuntog, mananaog
+English: conqueror
+
+Tagalog: mantikilya
+Cebuano: mantikilya
+English: butter
+
+Tagalog: materya, matter
+Cebuano: sultihanan
+English: matter
+
+Tagalog: melodia
+Cebuano: melodiya, tono
+English: melody
+
+Tagalog: merit
+Cebuano: merito
+English: merit
+
+Tagalog: meritoryo
+Cebuano: bilihon
+English: meritorious
+
+Tagalog: milagro
+Cebuano: milagro, tugahala
+English: miracle
+
+Tagalog: million
+Cebuano: milyan, milyon
+English: million
+
+Tagalog: minero
+Cebuano: minero
+English: miner
+
+Tagalog: miserya
+Cebuano: kakabos, katimawa
+English: misery
+
+Tagalog: misteryosa, misteryoso
+Cebuano: kahibulongan
+English: mysterious
+
+Tagalog: miting, pulong
+Cebuano: miting
+English: meeting
+
+Tagalog: monarka
+Cebuano: monarka
+English: monarch
+
+Tagalog: monumento, munumento
+Cebuano: bantayog
+English: monument
+
+Tagalog: motorsiklo
+Cebuano: motorsiklo
+English: motorcycle
+
+Tagalog: museo
+Cebuano: musiyo
+English: museum
+
+Tagalog: nars, nurse
+Cebuano: nars
+English: nurse
+
+Tagalog: ninyo
+Cebuano: anak
+English: child
+
+Tagalog: nobela
+Cebuano: nobela
+English: novel
+
+Tagalog: obligatoryo, ubligatoryo
+Cebuano: pugsanay
+English: obligatory
+
+Tagalog: oeste
+Cebuano: kasadpan
+English: west
+
+Tagalog: pagbuti
+Cebuano: kausbawan
+English: improvement
+
+Tagalog: pagdaraos
+Cebuano: kasadysan
+English: celebration
+
+Tagalog: pagkamaramot
+Cebuano: pagkakuripot
+English: stinginess
+
+Tagalog: pagpapanibago
+Cebuano: pagluwat
+English: renewal
+
+Tagalog: pagsali, pakikisali
+Cebuano: kaapilan, kasalmotan
+English: participation
+
+Tagalog: pagsuhol
+Cebuano: panghiphip, panuborno
+English: bribery
+
+Tagalog: palakipan
+Cebuano: kombinasyon, panaglpon
+English: combination
+
+Tagalog: pamahayag
+Cebuano: kasangyawan
+English: proclamation
+
+Tagalog: pamatok, pambatok
+Cebuano: yugo
+English: yoke
+
+Tagalog: panaginip
+Cebuano: damgo
+English: dream
+
+Tagalog: pangkasaysayan
+Cebuano: kaaginhon, salaysayon
+English: historical
+
+Tagalog: parakaida, parakayda
+Cebuano: parakayda
+English: parachute
+
+Tagalog: parlamento
+Cebuano: parlamento
+English: parliament
+
+Tagalog: pasahero
+Cebuano: sumasakay
+English: passenger
+
+Tagalog: pasaporte, passport
+Cebuano: pasaporte
+English: passport
+
+Tagalog: paskilan
+Cebuano: anunsiyohan, kartil
+English: billboard
+
+Tagalog: patriotismo
+Cebuano: kabayanihan, patrlyotismo
+English: patriotism
+
+Tagalog: pero
+Cebuano: peru
+English: conj. but
+
+Tagalog: perpume
+Cebuano: pahumot
+English: perfume
+
+Tagalog: petsa
+Cebuano: pitsa
+English: date
+
+Tagalog: pin
+Cebuano: alpiril, pukpok
+English: pin
+
+Tagalog: pistol, pistola
+Cebuano: pistola
+English: pistol
+
+Tagalog: piyano
+Cebuano: piyano
+English: piano
+
+Tagalog: planeta
+Cebuano: planeta
+English: planet
+
+Tagalog: plema
+Cebuano: luwa, plema
+English: phlegm
+
+Tagalog: plomero, tubero
+Cebuano: plumero
+English: plumber
+
+Tagalog: poesiya, poesya
+Cebuano: balak, pamagay, pamalak
+English: poetry
+
+Tagalog: poeta
+Cebuano: magbabalak
+English: poet
+
+Tagalog: post, poste
+Cebuano: tagdok
+English: post
+
+Tagalog: presidente
+Cebuano: presidente
+English: president
+
+Tagalog: presyo
+Cebuano: presyo
+English: price
+
+Tagalog: prospekto
+Cebuano: paglaom, palaabuton
+English: prospect
+
+Tagalog: prutas
+Cebuano: bungahoy, tiesa
+English: fruit
+
+Tagalog: pulea
+Cebuano: muton
+English: pulley
+
+Tagalog: reberendo
+Cebuano: talahuron, talamdon, tinahud
+English: reverend
+
+Tagalog: rebulto
+Cebuano: kinulit
+English: statue
+
+Tagalog: retratista
+Cebuano: maghuhulagway
+English: photographer
+
+Tagalog: sabotahe, sabutahe
+Cebuano: sabotahe
+English: sabotage
+
+Tagalog: sampayan
+Cebuano: hayhayan
+English: clothesline
+
+Tagalog: sansinukbin
+Cebuano: ngatanan
+English: universal
+
+Tagalog: sapatos
+Cebuano: sapin
+English: shoe
+
+Tagalog: saranggola
+Cebuano: tabanog
+English: kite
+
+Tagalog: seksi
+Cebuano: seksing
+English: sexy
+
+Tagalog: semana, simana
+Cebuano: semana
+English: week
+
+Tagalog: sementeryo, simenteryo
+Cebuano: kalubngan
+English: cemetery
+
+Tagalog: senso, sensus
+Cebuano: senso
+English: census
+
+Tagalog: Senyorita
+Cebuano: ginang, Ginang
+English: Miss
+
+Tagalog: sepilyo, sipilyo
+Cebuano: brutsa, sagbutan, sipilyo
+English: brush
+
+Tagalog: Septiyembre
+Cebuano: Septiyembre
+English: September
+
+Tagalog: sera, wax
+Cebuano: talo
+English: wax
+
+Tagalog: serbesa
+Cebuano: serbesa
+English: beer
+
+Tagalog: sertipiko
+Cebuano: sertipiko
+English: certificate
+
+Tagalog: siglo
+Cebuano: gatusan
+English: century
+
+Tagalog: siklo
+Cebuano: panaglibut
+English: cycle
+
+Tagalog: silim
+Cebuano: kahapunon
+English: dusk
+
+Tagalog: silya
+Cebuano: lingkuranan
+English: chair
+
+Tagalog: simbahan
+Cebuano: simbahan
+English: church
+
+Tagalog: siruhano
+Cebuano: siruhano
+English: surgeon
+
+Tagalog: siyensya
+Cebuano: siyensiya
+English: science
+
+Tagalog: soborno, suhol
+Cebuano: suborno
+English: bribe
+
+Tagalog: solemne
+Cebuano: solemne
+English: solemn
+
+Tagalog: sopas
+Cebuano: pospas
+English: soup
+
+Tagalog: sorpresa
+Cebuano: kabingangha, kahitingala
+English: surprise
+
+Tagalog: starch
+Cebuano: amirol
+English: starch
+
+Tagalog: sukod
+Cebuano: sukod
+English: dimension
+
+Tagalog: sultag
+Cebuano: kausaban
+English: evolution
+
+Tagalog: sur
+Cebuano: habagatan
+English: south
+
+Tagalog: taberna
+Cebuano: imnaman
+English: tavern
+
+Tagalog: talinig
+Cebuano: telegrama
+English: telegram
+
+Tagalog: tayog
+Cebuano: kahabugon
+English: altitude
+
+Tagalog: team
+Cebuano: tim
+English: team
+
+Tagalog: templo
+Cebuano: templo
+English: temple
+
+Tagalog: tenyente
+Cebuano: tenyente
+English: lieutenant
+
+Tagalog: terka, terko
+Cebuano: matinumanon, sukihan
+English: stubborn
+
+Tagalog: terorismo
+Cebuano: paglisang
+English: terrorism
+
+Tagalog: tesorera, tesorero
+Cebuano: mamahandi
+English: treasurer
+
+Tagalog: testigo
+Cebuano: testigos
+English: witness
+
+Tagalog: tilansik
+Cebuano: aligato
+English: spark
+
+Tagalog: tinapay
+Cebuano: pan, paN, tinapay
+English: bread
+
+Tagalog: tirano, tyrano
+Cebuano: manlulupig
+English: tyrant
+
+Tagalog: traffic
+Cebuano: trapiko
+English: traffic
+
+Tagalog: tribu
+Cebuano: tribo
+English: tribe
+
+Tagalog: tripulante
+Cebuano: grumete
+English: crew
+
+Tagalog: trono
+Cebuano: trono
+English: throne
+
+Tagalog: tuwalya
+Cebuano: tualya
+English: towel
+
+Tagalog: uliuli
+Cebuano: alimpulo, buhawi
+English: eddy
+
+Tagalog: ulila
+Cebuano: tio, tuwapos
+English: orphan
+
+Tagalog: umaga
+Cebuano: buntag
+English: morning
+
+Tagalog: ususera, ususero
+Cebuano: tigpatubo
+English: usurer
+
+Tagalog: util
+Cebuano: magpulos, mapuslanon
+English: useful
+
